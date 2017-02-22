@@ -13,7 +13,7 @@
     $ npm i
     $ vim src/app/app.module.ts
     
-      import { SharedModule } from 'ng2-shared/dist';
+      import { SharedModule } from 'ng2-shared';
       
       @NgModule({
         imports: [
